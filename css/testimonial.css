@@ -1,0 +1,44 @@
+a {
+	font-size: 20px;
+	padding: 0 5% 0 5%;
+}
+
+.header {
+	font-family: "Snell Roundhand";
+	margin-top: 3%;
+	font-size: 50px;
+}
+
+.jumbotron {
+	background-color: unset;
+}
+
+.navbar-inverse {
+	background-color: black;
+}
+
+.navbar-nav li {
+	font-family: 'Noto Serif', serif;
+}
+
+.center {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	max-width: 35%;
+}
+
+.text {
+	text-align: center;
+	display: block;
+	margin-bottom: 5%; 
+}
+
+h4 {
+	font-family: 'Poppins', sans-serif;
+}
+
+img {
+	padding: 2px;
+    border: 2px solid #021a40;
+}

@@ -1,0 +1,63 @@
+a {
+	font-size: 20px;
+	padding: 0 5% 0 5%;
+}
+
+.center {
+	margin-top: 3%;
+	text-align: center;
+}
+
+.header {
+	font-family: "Snell Roundhand";
+	margin-top: 3%;
+	font-size: 50px;
+}
+
+.navbar-inverse {
+	background-color: black;
+}
+
+.navbar-nav li {
+	font-family: 'Noto Serif', serif;
+}
+
+.jumbotron {
+	background-color: unset;
+}
+
+.fix {
+	overflow: auto;
+	width: unset;
+	height: unset;
+	font-size: 20px;
+	font-size: 1.25em;
+}
+
+.side img{
+	padding-bottom: 5%;
+	max-width: 55%;
+	display: block;
+}
+
+@media screen and (max-width: 655px) {
+		.side img{
+		display: block;
+		margin: auto;
+		max-width: 30%;
+		padding-bottom: 3%;
+	}
+
+	.navbar-inverse {
+	background-color: black;
+	}
+
+	.navbar-nav li {
+		font-family: 'Noto Serif', serif;
+	}
+	a {
+		font-size: 20px;
+		padding: 0 5% 0 5%;
+	}
+
+}

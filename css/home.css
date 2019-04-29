@@ -1,0 +1,49 @@
+a {
+	font-size: 20px;
+	padding: 0 5% 0 5%;
+}
+
+li {
+	font-family: 'Poppins', sans-serif;
+}
+
+ol li {
+	padding-bottom: 4%;
+	text-align: left;
+}
+
+.header {
+	font-family: "Snell Roundhand";
+	margin-top: 3%;
+	font-size: 50px;
+}
+
+.navbar-inverse {
+	background-color: black;
+}
+
+.navbar-nav li {
+	font-family: 'Noto Serif', serif;
+}
+
+.jumbotron {
+	background-color: unset;
+}
+
+.nuggets {
+	max-width: 40%;
+	margin: 0 30% 4% 30% ;
+}
+
+tr {
+	text-align: center;
+}
+table, td {
+  border: 1px solid black;
+  text-align: center;
+  background-color: rgb(116,116,116);
+}
+
+.row {
+	margin-bottom: 4%;
+}
