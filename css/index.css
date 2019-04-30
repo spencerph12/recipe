@@ -35,6 +35,12 @@ ol li {
 	margin: 0 30% 4% 30% ;
 }
 
+.nuggets2 {
+	padding: .7%;
+	background-color: #D3D3D3;
+	border: 2px solid #708090;
+}
+
 tr {
 	text-align: center;
 }
